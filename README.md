@@ -94,22 +94,22 @@ xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
 Output:
-image
+## image
 
-image
+## image
 
-image
+## image
 
-image
+## image
 
-image
+## image
 
-image
+## image
 
-image
+## image
 
-image image
+## image image
 
-Result:
+## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
