@@ -115,13 +115,13 @@ print(y_prednew)
 ![270399513-0a671b8d-5898-4e69-9a42-6806eb05cd99](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/22cd9d4c-bede-4ef5-8c7e-6f3258fbb125)
 ## Y train grad value
 ![270399594-c5bad725-4da0-4c89-aaf3-a653995f9ad9](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/059d417a-c5f8-457c-9060-979b9111ad81)
-Regression value
+## Regression value
 ![270399669-b69d76a9-4fec-4f65-9a56-7ea9b4e47184](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/43961d8a-094f-44ee-ab5b-361aa32a4660)
-Decision boundary graph
+## Decision boundary graph
 ![270399736-ca4cf70b-3faf-4f79-b267-ac6ea9b85470](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/4ff0b414-30b3-436d-9cb6-e3be682e914d)
-probablity value
+## probablity value
 ![270399802-e2c1c8b0-3689-4644-bee1-44f77f212884](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/1ca2aad8-5c1f-44b8-a433-74ede6d22d06)
-Prediction value of graph
+## Prediction value of graph
 ![270399849-06245660-99ae-4c65-8d3b-ce804e3afc96](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/84cfb458-fd13-457f-9581-0b2f1e3b384d)
 
 ## Result:
