@@ -103,22 +103,26 @@ print(y_prednew)
 ```
 
 ## Output:
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/9a6375f1-3276-47e1-87dc-efa2c319789b)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/c0a5d9ab-ad43-491b-bc8d-ae1b84e7bd2a)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/7a689516-72cc-45ff-aaad-1588e8744fb0)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/88e2a527-7fff-4f78-834e-2cd0a8c480f9)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/fd8f803e-49f6-4f59-9ced-800c5fb9fd2a)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/0215ca6b-21d1-425d-a65b-2e2d48242391)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/ea873136-4387-4c41-96ae-dca9d1a6daa9)
-
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/f620fb51-026f-4602-8930-68e747a1be2c)
-![image](https://github.com/Praveenanagaraji22/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393514/46e1a8c1-c2d3-4a5d-9b23-086973db5e23)
+## Array value of X
+![270399211-e0d2116b-fafc-4458-a5ba-edabd4cebf54](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/a98dbc59-341d-4d16-8773-eff60cad6069)
+## Array value of Y
+![270399296-2574b577-9872-439c-9375-eb80aaa412b6](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/7e966e30-9e1a-4400-8872-7260ccdd3899)
+## Score graph
+![270399357-4235eee2-5337-4ce8-baec-a66aadf16f0a](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/5e0cd063-e576-4759-996a-f72f1cfeadbc)
+## Sigmoid function graph
+![270399416-a20ecae5-99f0-43ad-8a57-5ca4b5320569](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/c6b09bc0-c759-483c-8e02-8f4ebd434cd1)
+## X train grad value
+![270399513-0a671b8d-5898-4e69-9a42-6806eb05cd99](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/22cd9d4c-bede-4ef5-8c7e-6f3258fbb125)
+## Y train grad value
+![270399594-c5bad725-4da0-4c89-aaf3-a653995f9ad9](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/059d417a-c5f8-457c-9060-979b9111ad81)
+Regression value
+![270399669-b69d76a9-4fec-4f65-9a56-7ea9b4e47184](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/43961d8a-094f-44ee-ab5b-361aa32a4660)
+Decision boundary graph
+![270399736-ca4cf70b-3faf-4f79-b267-ac6ea9b85470](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/4ff0b414-30b3-436d-9cb6-e3be682e914d)
+probablity value
+![270399802-e2c1c8b0-3689-4644-bee1-44f77f212884](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/1ca2aad8-5c1f-44b8-a433-74ede6d22d06)
+Prediction value of graph
+![270399849-06245660-99ae-4c65-8d3b-ce804e3afc96](https://github.com/shivanshyam79/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/151513860/84cfb458-fd13-457f-9581-0b2f1e3b384d)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
